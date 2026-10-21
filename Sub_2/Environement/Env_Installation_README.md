@@ -12,25 +12,29 @@ Use the installed specific to your system OS: Windows or Linux
 1) Use the file "mlba_v1.yml" to create the conda environment in your system.
 2) Use the following command to install the environment:
 
+```bash
 conda env create -f mlba_v1.yml
-
+```
 #### NOTE:  You need to be in the same directory while installing the env, 
 otherwise give the entire path to the file like:
 
+```bash
 conda env create -f c:/to/the/path/mlba_v1.yml
-
+```
 Your environment will be installed.
 
 ### Activating conda env:
 
 Use the following command to activate the mlba_v1 environment:
 
+```bash
 conda activate mlba_v1
-
+```
 Use the following command to deactivate the mlba_v1 environment:
 
+```bash
 conda deactivate
-
+```
 
 ## For Linux OS:
 
@@ -38,21 +42,27 @@ conda deactivate
 1) Use the file "mlba_v1_linux.yml" to create the conda environment in your system.
 2) Use the following command to install the environment:
 
+```bash
 conda env create -f mlba_v1_linux.yml
-
+```
 #### NOTE:  You need to be in the same directory while installing the env, 
 otherwise give the entire path to the file like:
 
-conda env create -f c:/to/the/path/mlba_v1.yml
-
+```bash
+conda env create -f c:/to/the/path/mlba_v1_linux.yml
+```
 Your environment will be installed.
 
 ### Activating conda env:
 
-Use the following command to activate the mlba_v1 environment:
+Use the following command to activate the mlba_v1_linux environment:
 
-conda activate mlba_v1
+```bash
+conda activate mlba_v1_linux
+```
 
 Use the following command to deactivate the mlba_v1 environment:
 
+```bash
 conda deactivate
+```
