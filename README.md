@@ -12,3 +12,7 @@ Folders Sub_2 and Sub_3 have files based on this workflow.
 <img src="one-hot.png" alt="Screenshot of the app" width="700">
 
 Folder Sub_4 have files based on this workflow
+
+## Environment Folder:
+
+This folder contains environments for both the windows and linux environmnet. Use the Env_installer_README.md file to cleanly install the environments.
