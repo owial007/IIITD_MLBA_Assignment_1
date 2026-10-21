@@ -14,7 +14,7 @@ Use the installed specific to your system OS: Windows or Linux
 
 conda env create -f mlba_v1.yml
 
-##NOTE:  You need to be in the same directory while installing the env, 
+#### NOTE:  You need to be in the same directory while installing the env, 
 otherwise give the entire path to the file like:
 
 conda env create -f c:/to/the/path/mlba_v1.yml
@@ -40,7 +40,7 @@ conda deactivate
 
 conda env create -f mlba_v1_linux.yml
 
-##NOTE:  You need to be in the same directory while installing the env, 
+#### NOTE:  You need to be in the same directory while installing the env, 
 otherwise give the entire path to the file like:
 
 conda env create -f c:/to/the/path/mlba_v1.yml
