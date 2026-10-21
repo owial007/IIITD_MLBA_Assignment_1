@@ -7,10 +7,6 @@ The file "train_DPC.zip" contains the tain_DPC.csv file used to train the model.
 
 ##### IMPORTANT: KEEP ALL THE FILES IN THE SAME DIRECTORY FOR EASY ACCESS.
 
-## Environment Folder:
-
-This folder contains environments for both the windows and linux environmnet. Use the Env_installer_README.md file to cleanly install the environments.
-
 ## Codes Folder:
 
 This folder contains all the codes used to:
